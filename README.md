@@ -10,24 +10,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Key Features](#-key-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Database Schema](#-database-schema)
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Database Setup](#database-setup)
-  - [Installation & Running](#installation--running)
-- [Screenshots / Demo](#-screenshots--demo)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [Author & License](#-author--license)
-
----
-
 ## 📖 Overview
 
 Proyek ini dikembangkan sebagai bagian dari **Tugas 3 Mata Kuliah Pemrograman Web**. Aplikasi ini dirancang untuk menangani alur pendaftaran siswa baru pada **Bimbel Babarsari**. 
